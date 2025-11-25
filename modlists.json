@@ -1,7 +1,7 @@
 [
   {
     "title": "Panda\u0027s Sovngarde",
-    "description": "Designed to be the most immersive and best-looking SkyrimVR experience possible, Panda\u0027s Sovngarde takes you to a Nordic paradise. This carefully curated list stays close to the vanilla game, but upgraded in every way possible with enhanced visuals and immersive VR gameplay. With over 1500 mods and growing, this is the ultimate way to experience SkyrimVR whether you\u0027re new to the game or have been playing since 2011.",
+    "description": "This carefully curated list, built over three years, was designed to stay true to Bethesda's vision, while enhancing the visuals and gameplay in every way possible. It's built for stability and performance with nearly 2000 mods and over 100 custom patches. This is the ultimate way to experience SkyrimVR.",
     "author": "Virtual Panda",
     "maintainers": [
       "github/VirtualPandaVR"
@@ -41,4 +41,5 @@
     "dateUpdated": "2024-09-28T02:52:28.50264Z",
     "repositoryName": ""
   }
+
 ]
