@@ -1,7 +1,7 @@
 [
   {
     "title": "Panda\u0027s Sovngarde",
-    "description": "This carefully curated list, built over three years, was designed to stay true to Bethesda's vision, while enhancing the visuals and gameplay in every way possible. It's built for stability and performance with nearly 2000 mods and over 100 custom patches. This is the ultimate way to experience SkyrimVR.",
+    "description": "This carefully curated list, built over years, was designed to stay true to Bethesda's vision, while enhancing the visuals and gameplay in every way possible. It's built from the ground up for stability with nearly 2000 mods and over 100 custom patches. This is the ultimate SkyrimVR experience, whether you're new or have been playing since 2011.",
     "author": "Virtual Panda",
     "maintainers": [
       "github/VirtualPandaVR"
@@ -43,3 +43,4 @@
   }
 
 ]
+
