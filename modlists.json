@@ -1,7 +1,7 @@
 [
   {
     "title": "Panda\u0027s Sovngarde",
-    "description": "This carefully curated list, built over years, was designed to stay true to Bethesda's vision, while enhancing the visuals and gameplay in every way possible. It's built from the ground up for stability with nearly 2000 mods and over 100 custom patches. This is the ultimate SkyrimVR experience, whether you're new or have been playing since 2011.",
+    "description": "This carefully curated list, built over years, was designed to stay true to Bethesda\u0027s vision, while enhancing the visuals and gameplay in every way possible. It\u0027s built from the ground up for stability with nearly 2000 mods and over 100 custom patches. This is the ultimate SkyrimVR experience, whether you\u0027re new or have been playing since 2011.",
     "author": "Virtual Panda",
     "maintainers": [
       "github/VirtualPandaVR"
@@ -24,24 +24,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/VirtualPandaVR/Panda-s-Immersive-SkyrimVR-Experience/main/Panda\u0027s%20Sovngarde%20Thumbnail.png",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/95028",
-      "download": "https://authored-files.wabbajack.org/Panda\u0027s Sovngarde.wabbajack_b5224ef0-a7df-44a1-8021-848c7f6a54aa",
+      "download": "https://authored-files.wabbajack.org/Panda\u0027s Sovngarde.wabbajack_bbed0840-4e01-4d8d-a968-eb0a6e01a938",
       "machineURL": "PISE",
-      "discordURL": "https://discord.gg/zC7KgFpC7v"
+      "discordURL": "https://discord.gg/zC7KgFpC7v",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "Xc5e5s3QbMs=",
-      "Size": 2998399154,
-      "NumberOfArchives": 1906,
-      "SizeOfArchives": 164621623795,
-      "NumberOfInstalledFiles": 192009,
-      "SizeOfInstalledFiles": 189925135664
+      "Hash": "xmB+doCPTtY=",
+      "Size": 1500560973,
+      "NumberOfArchives": 1898,
+      "SizeOfArchives": 150125594048,
+      "NumberOfInstalledFiles": 137646,
+      "SizeOfInstalledFiles": 182595940559,
+      "TotalSize": 332721534607
     },
-    "version": "0.38",
+    "version": "0.39",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-11-25T02:52:28.50264Z",
+    "dateUpdated": "2025-11-26T00:50:21.1149612Z",
     "repositoryName": ""
   }
-
 ]
-
-
