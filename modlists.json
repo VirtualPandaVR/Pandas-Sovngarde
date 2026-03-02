@@ -22,6 +22,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
+      "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/95028",
       "image": "https://raw.githubusercontent.com/VirtualPandaVR/Panda-s-Immersive-SkyrimVR-Experience/refs/heads/main/Panda's%20Sovngarde%20Banner.png",
       "download": "https://authored-files.wabbajack.org/Panda\u0027s Sovngarde.wabbajack_352fdba9-1b53-4d90-8141-46dcaeeb8d6c",
       "machineURL": "PandasSovngarde",
@@ -44,6 +45,7 @@
   }
 
 ]
+
 
 
 
