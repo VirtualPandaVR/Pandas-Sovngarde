@@ -28,7 +28,12 @@
       "machineURL": "PandasSovngarde",
       "discordURL": "https://discord.gg/hsVzqc5XT4",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "537508",
+        "slug": "onab8j",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "Xbhy/ZC8RmA=",
